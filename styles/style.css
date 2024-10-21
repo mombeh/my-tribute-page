@@ -1,56 +1,52 @@
 body {
-  background-color: white;
-  
+  background-color: white; 
 }
 
 .heading {
   text-align: center;
 }
 
-.content  {
+.content {
   width: 90vw;
   padding: 16px;
   display: flex;
-  align-content: center
-
+  align-content: center;
 }
+
 figcaption {
-  text-align: center
+  text-align: center;
 }
 
 .container {
-    background-color: aliceblue;
-    margin: auto;
+  background-color: aliceblue;
+  margin: auto;
+}
+.footer {
+  width: 0 auto;
+  text-align: center;
 }
 
- .footer {
-    width: 0 auto;
-    text-align: center;
- }
-
- article {
+article {
   text-align: center;
   width: 80vw;
   margin: auto;
- }
+}
  
- .dates  {
+.dates {
   margin:auto;
-  /* border: 1px solid red; */
- }
+}
  
- ul {
-   /* border: 1px solid green; */
-   width: 65vw; 
-   margin: auto;
-   padding-bottom: 2.5em;
- }
+ul {
+  width: 65vw; 
+  margin: auto;
+  padding-bottom: 2.5em;
+}
 
- h3 {
+h3 {
   text-align: center;
- }
+}
 
- p,
- h4 {
+p,
+h4 {
   text-align: center;
- }
+}
