@@ -1,6 +1,52 @@
-body{
-    background-color: blue;
+body {
+  background-color: white; 
 }
-button{
-    background-color: brown;
+
+.heading {
+  text-align: center;
+}
+
+.content {
+  width: 90vw;
+  padding: 16px;
+  display: flex;
+  align-content: center;
+}
+
+figcaption {
+  text-align: center;
+}
+
+.container {
+  background-color: aliceblue;
+  margin: auto;
+}
+.footer {
+  width: 0 auto;
+  text-align: center;
+}
+
+article {
+  text-align: center;
+  width: 80vw;
+  margin: auto;
+}
+ 
+.dates {
+  margin:auto;
+}
+ 
+ul {
+  width: 65vw; 
+  margin: auto;
+  padding-bottom: 2.5em;
+}
+
+h3 {
+  text-align: center;
+}
+
+p,
+h4 {
+  text-align: center;
 }
